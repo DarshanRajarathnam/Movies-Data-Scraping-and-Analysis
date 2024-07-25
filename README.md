@@ -1,11 +1,5 @@
 # Movies-Data-Scraping-and-Analysis
 
-Sure, let's add a section to address the business question based on the analysis performed in the notebooks:
-
----
-
-# Movie Data Analysis Project
-
 This repository contains the data analysis and machine learning project focused on movie data. The project aims to explore, visualize, and predict various aspects of movies using the provided dataset and Jupyter notebooks.
 
 ## Project Description
